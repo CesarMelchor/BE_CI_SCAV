@@ -1,0 +1,8 @@
+"id_tipo_comprador","nombre","descripcion"
+"1","MINORISTAS",
+"2","MAYORISTAS",
+"3","OTROS",
+"4","TIENDA EN LINEA",
+"5","TIENDA FISICA",
+"6","DISTRIBUIDOR",
+"7","SIN ASIGNAR","SIN ASIGNAR"
